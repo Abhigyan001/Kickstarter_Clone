@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.kicklogo {
+  margin: 3% auto;
+  width: 55%;  
+}
+
+.nav2 {
+  border-top: 1px solid rgba(182, 179, 179, 0.712);
+  border-bottom: 1px solid rgba(182, 179, 179, 0.712);
+  font-size: 14px;
+  margin-top: 3%;
+  padding-top: 3%;
+}
