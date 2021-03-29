@@ -33,7 +33,7 @@ a {
   padding-top: 3%;
 }
 
-.section1, .section2, .section3 {
+.section1, .section2, .section3, .footer1, .footer2 {
   background-color: #FBFBFA;
   
 }
@@ -78,6 +78,7 @@ a {
   background-color: white;
   margin-left:2%;
   padding: 3%;
+  border-radius: 0;
 }
 
 .progress {
@@ -146,4 +147,19 @@ a {
 .section3 {
   border-bottom: 1px solid rgba(182, 179, 179, 0.712);
   padding-bottom: 5%;
+}
+
+.footer1 {
+  border-top: 2px solid rgba(182, 179, 179, 0.712);
+  border-bottom: 1px solid rgba(182, 179, 179, 0.712);
+}
+
+h6 {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+li {
+  font-size: 14px;
+  list-style-type: none;
 }
