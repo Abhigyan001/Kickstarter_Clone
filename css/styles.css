@@ -154,7 +154,7 @@ a:hover {
   padding-bottom: 5%;
 }
 
-.footer1 {
+.footer1, .footer4 {
   border-top: 2px solid rgba(182, 179, 179, 0.712);
   border-bottom: 1px solid rgba(182, 179, 179, 0.712);
 }
