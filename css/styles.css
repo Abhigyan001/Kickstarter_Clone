@@ -223,3 +223,13 @@ li {
 .para {
   font-size: 13px;
 }
+
+.card {
+  border:none;
+}
+
+.recommend{
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(105, 102, 102);
+}
