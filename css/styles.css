@@ -5,6 +5,7 @@
   font-family: Helvetica, sans-serif;
 }
 
+
 * img {
   display: block;
   max-width: 100%;
@@ -41,7 +42,7 @@ a:hover {
 .section1, .section2, .section3  {
   background-color: #FBFBFA;  
 }
-+
+
 .title {
   font-size: 30px;
   margin: 2% 6%;  
@@ -184,7 +185,7 @@ li {
 }
 
 .remindnew {
-  width: 40%;
+  width: 50%;
   border-radius: 3px;  
 }
 
@@ -192,7 +193,7 @@ li {
   border: 2px solid grey;
   border-radius: 50%;
   height: 60%;
-  width: 16%;
+  width: 20%;
   padding-left: 6px;
   padding-top: 3px;
 }
@@ -202,7 +203,7 @@ li {
 }
 
 .thumbsup {
-  margin-left: 58%;
+  margin-left: 50%;
 }
 
 .card-img-top {
@@ -232,4 +233,8 @@ li {
   font-size: 12px;
   font-weight: bold;
   color: rgb(105, 102, 102);
+}
+
+.list1 {
+  margin-left: 60%;
 }
