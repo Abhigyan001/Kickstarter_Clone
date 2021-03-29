@@ -17,6 +17,11 @@ a {
   cursor: pointer;
 }
 
+a:hover {
+  text-decoration: underline;
+  color: rgb(25, 126, 25);
+}
+
 .kicklogo {
   margin: 3% auto;
   width: 55%;  
@@ -156,10 +161,11 @@ a {
 
 h6 {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 li {
-  font-size: 14px;
+  font-size: 13px;
   list-style-type: none;
 }
+
