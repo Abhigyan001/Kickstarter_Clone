@@ -38,9 +38,8 @@ a:hover {
   padding-top: 3%;
 }
 
-.section1, .section2, .section3, .footer1, .footer2, .footer3, .footer4 {
-  background-color: #FBFBFA;
-  
+.section1, .section2, .section3  {
+  background-color: #FBFBFA;  
 }
 
 .title {
