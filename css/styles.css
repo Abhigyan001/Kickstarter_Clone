@@ -41,7 +41,7 @@ a:hover {
 .section1, .section2, .section3  {
   background-color: #FBFBFA;  
 }
-
++
 .title {
   font-size: 30px;
   margin: 2% 6%;  
@@ -181,4 +181,45 @@ li {
   border: 1px solid rgb(207, 206, 206);
   box-shadow: 1px 1px 1px #d4d4d4;
   height: 45px;
+}
+
+.remindnew {
+  width: 40%;
+  border-radius: 3px;  
+}
+
+.dislike {
+  border: 2px solid grey;
+  border-radius: 50%;
+  height: 60%;
+  width: 16%;
+  padding-left: 6px;
+  padding-top: 3px;
+}
+
+.like {
+  margin-top: 3%;
+}
+
+.thumbsup {
+  margin-left: 58%;
+}
+
+.card-img-top {
+  margin: 2% auto;
+  width: 88%;
+}
+
+.bottom {
+  border-bottom: 5px solid #037362;  
+}
+
+.newtitle {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: -1px;
+}
+
+.para {
+  font-size: 13px;
 }
