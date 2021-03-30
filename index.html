@@ -30,17 +30,25 @@
 
   <body>
     <!-- navbar -->
-    <header class="w-100">
+    <header class="w-100 wrapper">
       <!-- Nav1 -->
       <nav class="navbar navbar-light bg-white text-center">
+        <div class="left-nav1">
+          <a href="#" rel="noopener noreferrer">Discover</a>
+          <a href="#" rel="noopener noreferrer" class="ml-2">Start a project</a>
+        </div>
         <img
           src="images/kickstarter.JPG"
           alt="kickstarter logo"
           class="kicklogo"
         />
+        <div class="right-nav1">
+          <a href="">Search <i class="fas fa-search mr-4 ml-2"></i></a>
+          <a href="#" rel="noopener noreferrer">Log in</a>
+        </div>
       </nav>
       <!-- Nav2 -->
-      <nav class="navbar navbar-light bg-white text-center nav2">
+      <nav class="navbar navbar-light bg-white text-center nav2 d-lg-none">
         <div class="left-nav">
           <a href="#" rel="noopener noreferrer">Discover</a>
           <a href="#" rel="noopener noreferrer" class="ml-2">Start</a>
@@ -55,7 +63,7 @@
       <!-- section 1 -->
       <section class="section1 pb-2">
         <iframe
-          class="w-100 mt-1"
+          class="w-100 mt-1 d-lg-none"
           height="220"
           src="https://www.youtube.com/embed/B5UNdlOSjkc"
           title="YouTube video player"
