@@ -233,3 +233,24 @@ li {
   font-weight: bold;
   color: rgb(105, 102, 102);
 }
+
+.active {
+  border-bottom: 3px solid black;
+}
+
+.nuchair{
+  width:90%;
+  margin: 0 auto;
+  font-size: 14px;
+  color: grey;
+}
+
+.wrong {
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.sitting {
+  line-height: 2;
+  margin-top: 14%;
+}
