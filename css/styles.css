@@ -254,3 +254,12 @@ li {
   line-height: 2;
   margin-top: 14%;
 }
+
+.video2 {
+  width: 100%;
+  margin-left: -5%;
+}
+
+.lastsection{
+  border-top: 2px solid rgb(219, 214, 214);
+}
