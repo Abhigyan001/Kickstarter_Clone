@@ -263,3 +263,16 @@ li {
 .lastsection{
   border-top: 2px solid rgb(219, 214, 214);
 }
+
+/*Desktop design*/
+
+@media only screen and (min-width: 768px) {
+  .list1 {
+    float: left;
+    
+  }
+
+  .footer4 {
+    border: none;
+  }
+}
