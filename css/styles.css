@@ -280,7 +280,8 @@ li {
 
 .left-nav1,
 .right-nav1,
-.show {
+.show,
+.updates {
   display: none;
 }
 
@@ -456,5 +457,49 @@ li {
 
   .product {
     margin-left: 5%;
+  }
+
+  .section4 {
+    width: 50%;
+    margin: 1% 15% 1% 15%;
+  }
+
+  .video2 {
+    height: 400px;
+  }
+
+  .navigation {
+    border-top: 2px solid rgb(206, 200, 200);
+    border-bottom: 2px solid rgb(194, 189, 189);
+    width: 100%;
+    margin-left: 0;
+    margin-top: -1%;
+    position: sticky;
+    top: 0;
+  }
+
+  .section2 {
+    padding-bottom: 4%;
+  }
+
+  .nav-pills {
+    margin-left: 5%;
+  }
+
+  .nav-link {
+    font-size: 16px;
+
+    width: 100%;
+  }
+
+  .story {
+    color: grey;
+    text-align: left;
+    font-size: 25px;
+    padding-bottom: 5%;
+  }
+
+  .updates {
+    display: inline-flex;
   }
 }
