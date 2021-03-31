@@ -22,6 +22,14 @@ a:hover {
   color: rgb(25, 126, 25);
 }
 
+.section1,
+.section2,
+.section3,
+.section5,
+.lastsection {
+  overflow: hidden;
+}
+
 .kicklogo {
   margin: 3% auto;
   width: 55%;
