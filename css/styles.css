@@ -279,7 +279,8 @@ li {
 }
 
 .left-nav1,
-.right-nav1, .show {
+.right-nav1,
+.show {
   display: none;
 }
 
@@ -290,7 +291,8 @@ li {
     float: left;
   }
 
-  .footer4, .product {
+  .footer4,
+  .product {
     border: none;
   }
 
@@ -394,15 +396,65 @@ li {
   }
 
   .newvideo {
-    margin-left: 6%;
-    width: 900px;
+    margin-left: 8%;
+    width: 850px;
     margin-top: 4%;
+    height: 480px;
   }
 
   .progressDesktop {
-    margin-left: 4%;
+    margin-left: 6%;
     width: 95%;
+    margin-top: 1.5%;
   }
 
+  .usd {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 4%;
+  }
 
+  .backers {
+    font-size: 16px;
+    color: black;
+    margin-left: 4%;
+  }
+
+  .days {
+    font-size: 28px;
+    margin-left: 6%;
+  }
+
+  .togo {
+    margin-left: 6%;
+  }
+
+  .backThis {
+    width: 85%;
+  }
+
+  .progress {
+    margin-right: 10%;
+    width: 85%;
+  }
+
+  .remind {
+    width: 40%;
+  }
+
+  .social {
+    margin-right: 13%;
+  }
+
+  .social a {
+    padding-right: 15%;
+  }
+
+  .newall {
+    font-size: 13px;
+  }
+
+  .product {
+    margin-left: 5%;
+  }
 }
