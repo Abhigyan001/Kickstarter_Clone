@@ -15,12 +15,19 @@ Future implementation: Make it responsive in tablet and desktop view.
 
 <i>Built With HTML5, CSS3, Bootstrap, GIT, and VSCODE</i>
 
-Live Demo : 
+Live Demo : https://kickstarter.netlify.app/
 
 Original Page: https://www.kickstarter.com/projects/snp/nuchair-sit-longer-sit-healthier-without-pain/description
 
 
-<h1>Getting Started</h1>
+<h1>How to view</h1>
+
+1. Go to https://kickstarter.netlify.app/
+2. Open brower developer tool. (Press F12 in Chrome)
+3. Select Mobile view. (Resolution 320 * 1080p)
+
+
+<h1>How to contribute</h1>
 
 To get a local copy up and running follow these simple example steps.
 
