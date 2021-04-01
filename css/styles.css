@@ -573,4 +573,20 @@ li {
     z-index: 50;
   }
   
+  .dollar{
+    padding-left: 5%;
+    border: 1px solid rgb(200, 196, 196);
+    color: rgb(163, 156, 156);
+    width: 15%;
+    padding-top: 2.8%;
+    padding-bottom: 2.8%;
+  }
+
+  .newinput {
+    width: 80%;
+    border: 1px solid rgb(200, 196, 196);
+    padding-top: 1.5%;
+    padding-left: 5%;
+    padding-bottom: 0.9%;
+  } 
 }
