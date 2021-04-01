@@ -560,5 +560,17 @@ li {
     width: 55%;    
   }
 
+  .pledge {
+    position: absolute;
+    top: 3.7%;
+    right: 5%;
+    height: auto;    
+    width: 22%;
+  }
+
+  .newround {
+    margin-bottom:-11%;
+    z-index: 50;
+  }
   
 }
