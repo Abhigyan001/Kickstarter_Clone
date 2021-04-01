@@ -470,7 +470,6 @@ li {
   .section4 {
     width: 50%;
     margin: 1% 15% 1% 18%;
-    
   }
 
   .video2 {
@@ -552,28 +551,28 @@ li {
   }
 
   .risk p {
-    padding-bottom: 8%;    
+    padding-bottom: 8%;
   }
 
   .underline {
     border-bottom: 2px solid rgb(216, 209, 209);
-    width: 55%;    
+    width: 55%;
   }
 
   .pledge {
     position: absolute;
     top: 3.7%;
     right: 5%;
-    height: auto;    
+    height: auto;
     width: 22%;
   }
 
   .newround {
-    margin-bottom:-11%;
+    margin-bottom: -11%;
     z-index: 50;
   }
-  
-  .dollar{
+
+  .dollar {
     padding-left: 5%;
     border: 1px solid rgb(200, 196, 196);
     color: rgb(163, 156, 156);
@@ -583,10 +582,25 @@ li {
   }
 
   .newinput {
-    width: 80%;
+    width: 85%;
     border: 1px solid rgb(200, 196, 196);
     padding-top: 1.5%;
     padding-left: 5%;
     padding-bottom: 0.9%;
-  } 
+  }
+
+  .believe {
+    background: rgb(254, 242, 236);
+    background: linear-gradient(
+      0deg,
+      rgba(254, 242, 236, 1) 0%,
+      rgba(221, 232, 255, 1) 100%
+    );
+    padding: 8% 2% 6% 3%;
+    
+  }
+
+  .reward {
+    font-size: 18px;
+  }
 }
