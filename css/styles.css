@@ -617,7 +617,7 @@ li {
 
   .limited {
     background-color: rgba(228, 198, 198, 0.63);
-    
+
     width: 33%;
     font-size: 13px;
     border-radius: 6px;
@@ -625,5 +625,17 @@ li {
 
   li {
     list-style-type: disc;
+  }
+
+  .grey {
+    background-color: rgba(243, 235, 235, 0.301);
+  }
+
+  .available {
+    background-color: rgb(231, 231, 231);
+    width: 70%;
+    padding: 2%;
+    font-size: 13px;
+    text-align: center;
   }
 }
