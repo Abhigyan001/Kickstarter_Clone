@@ -607,18 +607,20 @@ li {
     font-size: 12px;
   }
 
-  .back,
-  .limited {
+  .back {
     padding-left: 4%;
-    background-color: rgba(219, 212, 212, 0.733);
+    background-color: rgba(200, 194, 194, 0.438);
     width: 33%;
     font-size: 13px;
     border-radius: 6px;
   }
 
   .limited {
-    background-color: rgba(230, 185, 185, 0.431);
-    padding-right: 1.5%;
+    background-color: rgba(228, 198, 198, 0.63);
+    
+    width: 33%;
+    font-size: 13px;
+    border-radius: 6px;
   }
 
   li {
