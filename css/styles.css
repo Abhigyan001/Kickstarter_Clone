@@ -596,11 +596,22 @@ li {
       rgba(254, 242, 236, 1) 0%,
       rgba(221, 232, 255, 1) 100%
     );
-    padding: 8% 2% 6% 3%;
-    
+    padding: 8% 2% 10% 3%;
   }
 
   .reward {
     font-size: 18px;
+  }
+
+  .small {
+    font-size: 12px;
+  }
+
+  .back {
+    padding-left: 4%;
+    background-color: rgba(219, 212, 212, 0.733);
+    width: 33%;
+    font-size: 13px;
+    border-radius: 6px;
   }
 }
