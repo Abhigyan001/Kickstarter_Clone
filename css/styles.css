@@ -31,8 +31,13 @@ a:hover {
 }
 
 .kicklogo {
-  margin: 3% auto;
-  width: 55%;
+  margin: 1% auto;
+  width: 40%;
+}
+
+.navbar {
+  height: 40px;
+  margin-bottom: 3%;
 }
 
 .nav2,
@@ -43,9 +48,11 @@ a:hover {
 }
 
 .nav2 {
-  font-size: 14px;
-  margin-top: 3%;
-  padding-top: 3%;
+  font-size: 9px;
+  margin-top: 1%;
+  padding-top: 2%;
+  height: 30px;
+  margin-bottom: 0;
 }
 
 .section1,
@@ -54,28 +61,37 @@ a:hover {
   background-color: #fbfbfa;
 }
 
+.video1 {
+  height: 182px;
+}
+
 .title {
-  font-size: 30px;
-  margin: 2% 6%;
+  font-size: 18px;
+  margin: 1.9% 4%;
   color: #282828;
-  line-height: 2.5rem;
+
   font-weight: 600;
-  letter-spacing: -1px;
+  
 }
 
 .info {
   text-align: left;
-  margin: 5% 6%;
-  font-size: 15px;
+  margin: 5% 4%;
+  font-size: 10px;
+}
+
+.cardbody {
+  margin-left: -5%;
+  margin-top: 1.5%;
+}
+
+.cardbody h5 {
+  font-weight: 600;
+  font-size: 12px;
 }
 
 .card-text {
-  font-size: 14px;
-}
-
-.cardimage {
-  margin-left: -22%;
-  margin-top: -3%;
+  font-size: 11px;
 }
 
 .card-title {
@@ -83,18 +99,13 @@ a:hover {
   margin-top: 7%;
 }
 
-.cardbody {
-  margin-left: -5%;
-  margin-top: 4%;
-}
-
 .more {
-  height: 60%;
   border: 1px solid rgb(192, 190, 190);
   background-color: white;
   margin-left: 2%;
   padding: 3%;
   border-radius: 0;
+  font-size: 10px;
 }
 
 .progress {
