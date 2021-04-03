@@ -623,7 +623,7 @@ li {
     border-radius: 6px;
   }
 
-  li {
+  .pledge li {
     list-style-type: disc;
   }
 
@@ -645,5 +645,9 @@ li {
 
   .just {
     margin-bottom: 4%;
+  }
+
+  .remind {
+    border: none;
   }
 }
