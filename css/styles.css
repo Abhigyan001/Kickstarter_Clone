@@ -577,6 +577,7 @@ footer h6 {
     width: 50%;
     margin: 1% 15% 1% 18%;
     padding-left: 0;
+    
   }
 
   .video2 {
@@ -595,7 +596,12 @@ footer h6 {
     position: sticky;
     top: 0;
     z-index: 100;
+    height: 80px;
   }
+
+  .card-text {
+  font-size: 15px;
+}
 
   .section2 {
     padding-bottom: 4%;
@@ -627,10 +633,16 @@ footer h6 {
   }
 
   .wrong {
-    margin-bottom: -8%;
+    
     font-size: 33px;
     margin-top: -2%;
   }
+
+  .sitting {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-top: 5%;
+}
 
   .newsitting {
     margin-top: -1%;
@@ -646,12 +658,13 @@ footer h6 {
 
   .bordernew {
     border-bottom: 2px solid rgb(206, 199, 199);
+
   }
 
   .risk {
     width: 15%;
     position: absolute;
-    top: 3.3%;
+    top: 2.7%;
     left: 7%;
     text-align: left;
     color: grey;
@@ -669,7 +682,7 @@ footer h6 {
 
   .pledge {
     position: absolute;
-    top: 3.7%;
+    top: 2.5%;
     right: 5%;
     height: auto;
     width: 22%;
