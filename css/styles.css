@@ -444,6 +444,10 @@ footer h6 {
     padding-left: 10%;
   }
 
+  .newtitle {
+    font-size: 16px;
+  }
+
   .lastsection {
     width: 90%;
     margin: 0 auto;
@@ -579,6 +583,10 @@ footer h6 {
     padding-left: 0;
     
   }
+
+  .para {
+  font-size: 13px;
+}
 
   .video2 {
     height: 500px;
@@ -746,6 +754,11 @@ footer h6 {
 
   .pledge li {
     list-style-type: disc;
+  }
+
+  .recommend {
+    font-size: 14px;
+    margin-bottom:2% ;
   }
 
   .grey {
