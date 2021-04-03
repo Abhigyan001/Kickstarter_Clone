@@ -346,6 +346,20 @@ li {
   display: none;
 }
 
+footer a, footer h6  {
+  font-size: 9px;
+  
+}
+
+.footer1 {
+  height: 170px;
+}
+
+.footer1 ul li, .about li, .about1 li, .about2 li {
+  margin-bottom: -5px;
+}
+
+
 /*Desktop design*/
 
 @media only screen and (min-width: 768px) {
