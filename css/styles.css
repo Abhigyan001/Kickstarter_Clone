@@ -247,7 +247,7 @@ li {
   border-radius: 3px;
   margin-top: -4%;
   height: auto;
-  padding: 2% 3% ;
+  padding: 2% 3%;
 }
 
 .dislike {
@@ -351,19 +351,21 @@ li {
   display: none;
 }
 
-footer a, footer h6  {
+footer a,
+footer h6 {
   font-size: 9px;
-  
 }
 
 .footer1 {
   height: 170px;
 }
 
-.footer1 ul li, .about li, .about1 li, .about2 li {
+.footer1 ul li,
+.about li,
+.about1 li,
+.about2 li {
   margin-bottom: -5px;
 }
-
 
 .about1 {
   width: 86%;
@@ -371,7 +373,7 @@ footer a, footer h6  {
 
 .footer3 p {
   font-size: 9px;
-} 
+}
 
 .footer3 div i {
   transform: scale(1.3);
@@ -448,10 +450,12 @@ footer a, footer h6  {
     border-top: none;
   }
 
+  
+
   .left-nav1,
   .right-nav1 {
     display: block;
-    margin-top: -2%;
+    
   }
 
   .kicklogo {
@@ -486,7 +490,10 @@ footer a, footer h6  {
   .wrapper {
     width: 90%;
     border: 2px solid rgba(209, 208, 208, 0.335);
-    margin: 3px 2px 0 2px;
+  }
+
+  .navbar {
+    height: 20px;    
   }
 
   .show {
@@ -500,6 +507,14 @@ footer a, footer h6  {
     height: 480px;
   }
 
+  .progress {
+    height: 6px;
+    margin: 0;
+    margin-left: 5%;
+    width: 80%;
+  }
+
+ 
   .progressDesktop {
     margin-left: 6%;
     width: 95%;
@@ -528,13 +543,12 @@ footer a, footer h6  {
   }
 
   .backThis {
-    width: 85%;
+    width: 80%;
+    font-size: 16px;
+    
   }
 
-  .progress {
-    margin-right: 10%;
-    width: 85%;
-  }
+  
 
   .remind {
     width: 40%;
