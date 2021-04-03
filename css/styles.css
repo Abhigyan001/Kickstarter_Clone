@@ -450,12 +450,9 @@ footer h6 {
     border-top: none;
   }
 
-  
-
   .left-nav1,
   .right-nav1 {
     display: block;
-    
   }
 
   .kicklogo {
@@ -493,7 +490,7 @@ footer h6 {
   }
 
   .navbar {
-    height: 20px;    
+    height: 20px;
   }
 
   .show {
@@ -501,10 +498,10 @@ footer h6 {
   }
 
   .newvideo {
-    margin-left: 8%;
-    width: 850px;
+    margin-left: 10%;
+    width: 800px;
     margin-top: 4%;
-    height: 480px;
+    height: 450px;
   }
 
   .progress {
@@ -514,7 +511,6 @@ footer h6 {
     width: 80%;
   }
 
- 
   .progressDesktop {
     margin-left: 6%;
     width: 95%;
@@ -545,17 +541,22 @@ footer h6 {
   .backThis {
     width: 80%;
     font-size: 16px;
-    
+    margin-left: 5%;
   }
-
-  
 
   .remind {
     width: 40%;
+    font-size: 16px;
+    color: grey;
+    margin-left: 5%;
   }
 
   .social {
-    margin-right: 13%;
+    margin-right: 16%;
+  }
+
+  .social i {
+    transform: scale(1.1);
   }
 
   .social a {
@@ -564,10 +565,12 @@ footer h6 {
 
   .newall {
     font-size: 13px;
+    margin-left: 5%;
   }
 
   .product {
-    margin-left: 5%;
+    margin-left: 7%;
+    font-size: 14px;
   }
 
   .section4 {
@@ -748,7 +751,5 @@ footer h6 {
     margin-bottom: 4%;
   }
 
-  .remind {
-    border: none;
-  }
+  
 }
