@@ -125,34 +125,46 @@ a:hover {
 .progress {
   margin: 0 auto;
   width: 90%;
-  height: 8px;
+  height: 4px;
   border-radius: 0;
 }
 
 .progress-bar {
   background-color: #009e74;
+  width: 93%;
 }
 
 .usd {
   color: #009e74;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 11px;
 }
 
 .days {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 11px;
   color: grey;
+  
+}
+
+.value {
+  margin-right: -10%;
 }
 
 .backers {
-  font-size: 13px;
+  font-size: 8px;
   color: grey;
   margin-top: -16px;
 }
 
+.progressDesktop {
+    
+    width: 100%;
+    
+  }
+
 .product {
-  font-size: 13px;
+  font-size: 11px;
 }
 
 .location {
