@@ -908,4 +908,30 @@ footer h6 {
   .product p {
     font-size: 12px;
   }
+
+  .backThis {
+    width: 95%;
+    font-size: 16px;
+    height: 48px;
+  }
+  
+  .remind {
+    font-size: 14px;
+  }
+
+  .all {
+    font-size: 12px;
+  }
+
+  .newall {
+    font-size: 14px;
+  }
+
+  .social i{
+    transform: scale(1.2);
+    
+  }
+
+  
+
 }

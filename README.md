@@ -4,9 +4,9 @@
 
 This is a project to demonstrate the knowledge of HTML5, CSS3, and Bootstrap. It is a clone of NuChair landing page by kickstarter.com.
 
-Current state: The clone has been designed in the mobile-view first approach. As of now, the clone works in mobile view.
+Current state: The clone has been designed in the mobile-view first approach. As of now, the clone works in mobile view and desktop view.
 
-Future implementation: Make it responsive in tablet and desktop view.
+Future implementation: Make it responsive in tablet view.
 
 <img src="images/ss1.JPG" alt="mobileview">
 <br>
@@ -18,14 +18,6 @@ Future implementation: Make it responsive in tablet and desktop view.
 Live Demo : https://kickstarter.netlify.app/
 
 Original Page: https://www.kickstarter.com/projects/snp/nuchair-sit-longer-sit-healthier-without-pain/description
-
-
-<h1>How to view</h1>
-
-1. Go to https://kickstarter.netlify.app/
-2. Open brower developer tool. (Press F12 in Chrome)
-3. Select Mobile view. (Resolution 320 * 1080p)
-
 
 <h1>How to contribute</h1>
 
