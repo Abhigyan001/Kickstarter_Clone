@@ -318,7 +318,7 @@ li {
 }
 
 .sitting {
-  font-size: 11px;
+  font-size: 13px;
   line-height: 1.7;
   margin-top: 5%;
 }
@@ -384,7 +384,7 @@ footer h6 {
 
 /*Desktop design*/
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .list1 {
     float: left;
     margin-left: 5%;
@@ -696,7 +696,7 @@ footer h6 {
   .risk {
     width: 15%;
     position: absolute;
-    top: 2.7%;
+    top: 2.1%;
     left: 7%;
     text-align: left;
     color: grey;
@@ -714,7 +714,7 @@ footer h6 {
 
   .pledge {
     position: absolute;
-    top: 2.5%;
+    top: 2%;
     right: 5%;
     height: auto;
     width: 22%;
@@ -807,5 +807,22 @@ footer h6 {
 
   .just {
     margin-bottom: 4%;
+  }
+}
+
+/* Tablet Design */
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .kicklogo {
+    margin: 3% auto;
+    width: 25%;
+  }
+
+  .nav2 {
+    font-size: 14px;
+    height: 4em;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 5%;
   }
 }
