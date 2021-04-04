@@ -864,4 +864,48 @@ footer h6 {
     padding: 2%;
     font-size: 14px;
   }
+
+  .progress {
+    height: 6px;
+  }
+
+  .progressDesktop {
+    margin-top: 1%;
+  }
+
+  .progressDesktop .usd {
+    font-size: 18px;
+    margin-left: 5%;
+    margin-top: 2%;
+    width:30%;
+  }
+
+  .progressDesktop .days {
+    font-size: 18px;
+    margin-top: 10%;
+    padding: 0;
+  }
+
+  .progressDesktop .backers {
+    font-size: 12px;
+    margin-left: 5%;
+    margin-top: -6%;
+  }
+
+  .progressDesktop .togo {
+    margin: 0;
+    margin-top: -24%;
+  }
+
+  .product {
+    height: 43px;
+  }
+
+  .product i {
+    transform: scale(1.3);
+  }
+
+  .product p {
+    font-size: 12px;
+  }
 }
